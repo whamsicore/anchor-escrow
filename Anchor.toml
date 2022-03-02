@@ -1,11 +1,11 @@
 [programs.localnet]
-anchor_escrow = "6m7hFFRbDoCAN5bTm592crzaXNV3qkYwt6aaEzd1rkg6"
+anchor_escrow = "mQrnUEocPXEFzoyzc5FfFwh4HdguihENrwehxZQN4YB"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "https://rpc-mainnet-fork.dappio.xyz"
+cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
